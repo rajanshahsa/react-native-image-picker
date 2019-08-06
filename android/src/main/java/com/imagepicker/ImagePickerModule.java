@@ -67,7 +67,7 @@ public class ImagePickerModule extends ReactContextBaseJavaModule
   public static final int REQUEST_LAUNCH_IMAGE_CAPTURE    = 13001;
   public static final int REQUEST_LAUNCH_IMAGE_LIBRARY    = 13002;
   public static final int REQUEST_LAUNCH_VIDEO_LIBRARY    = 13003;
-  public static final int REQUEST_LAUNCH_VIDEO_CAPTURE    = 13004;
+  // public static final int REQUEST_LAUNCH_VIDEO_CAPTURE    = 13004;
   public static final int REQUEST_PERMISSIONS_FOR_CAMERA  = 14001;
   public static final int REQUEST_PERMISSIONS_FOR_LIBRARY = 14002;
 
